@@ -18,7 +18,8 @@ cd secretary-bash
 chmod +x secretary.sh
 ```
 
-Attention!
+### Attention!
+
 For use it is necessary to move the script to the bin directory of the bash system or move the script to the folder containing the files to be organized.
 
 ### Execution:
