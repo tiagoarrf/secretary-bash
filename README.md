@@ -19,7 +19,7 @@ chmod +x secretary.sh
 ```
 
 Attention!
-For usage is required to moved script for directory bin or usable scrip in actuale folder
+For use it is necessary to move the script to the bin directory of the bash system or move the script to the folder containing the files to be organized.
 
 ### Execution:
 ```
